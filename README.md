@@ -1,11 +1,143 @@
-# About Me:
- Hi, I’m Sudipto Chakraborty<br><br>Master’s Student Aerospace Informatics<br>Computer Science (Bachelor's)| Machine Learning | Software Development<br>Location: Würzburg, Germany<br><br><br>About Me<br><br>I am a Master’s student in Aerospace Informatics with a strong foundation in Computer Science.  <br>I enjoy building data-driven and software-intensive systems, especially at the intersection of:<br><br>- Machine Learning & Data Science  <br>- Software Development (Python, C/C++)  <br>- Aerospace & Engineering Applications  <br><br>My focus is on writing clean, reliable code, understanding system behavior, and building solutions that work in real-world conditions, not just on paper.<br><br><br><br> Technical Skills<br><br>Programming & Tools<br>- Python, C/C++, JavaScript  <br>- Git & GitHub  <br>- Linux, Jupyter Notebook  <br><br>Machine Learning & Data<br>- Regression & Classification  <br>- Time-Series Analysis  <br>- Feature Engineering & Model Evaluation  <br>- Pandas, NumPy, scikit-learn  <br><br>Applied Domains<br>- Predictive Maintenance  <br>- Aircraft Engine Health Monitoring  <br>- Computer Vision (basic)  <br>- Remote Sensing & GeoAI (foundations)<br><br><br><br> Featured Projects<br><br> Aircraft Engine Predictive Maintenance<br>- Built an end-to-end ML pipeline to predict Remaining Useful Life (RUL) of aircraft engines  <br>- Worked with multivariate sensor time-series data  <br>- Implemented engine-wise train/validation splits to avoid data leakage  <br>- Compared baseline and tree-based models with realistic evaluation  <br><br>Repository: `aircraft-engine-predictive-maintenance`<br><br><br>Autonomous Insect Monitoring System<br>Camera-based monitoring concept using computer vision  <br>Focus on real-world constraints like robustness and deployment  <br><br><br><br>Sign Language Recognition System<br>- Bachelor’s project using machine learning and image processing  <br>- End-to-end pipeline from data preprocessing to evaluation  <br><br><br><br> Experience & Learning<br><br>- AWS Cloud Internship – exposure to cloud fundamentals and deployment workflows  <br>- Full-Stack Development Training – HTML, CSS, JavaScript, React, Node.js  <br>- ESRI ArcGIS Imagery MOOC – Remote sensing, GeoAI, satellite imagery analysis  <br><br><br><br>What I’m Looking For<br><br>- Working Student / HiWi roles in:<br>  - Software Development<br>  - Machine Learning / Data Science<br>  - Applied AI & Engineering Systems<br><br>I’m especially interested in roles where I can learn by building, collaborate with experienced engineers, and contribute to meaningful projects.<br><br>Get in Touch<br><br>- LinkedIn: https://www.linkedin.com/in/sudipto-chakraborty-4a96761b7/<br>- Instagram: @sudiptochakraborty_<br><br>Thanks for visiting my profile! <br>
+# About Me
+
+Hi, I’m **Sudipto Chakraborty**
+
+Master’s Student Aerospace Informatics (University of Würzburg)
+Computer Science Graduate | Machine Learning | Software Engineering
+Würzburg, Germany
+
+---
+
+## What I Do
+
+I build **data-driven and software-intensive systems** at the intersection of:
+
+* Machine Learning & Data Science
+* AI for Real-World Systems
+* Remote Sensing & GeoAI
+* Software Engineering (Python, C/C++)
+
+I’m particularly interested in **taking ML models beyond theory**, building systems that are **robust, interpretable, and usable in real environments**.
+
+---
+
+## Current Focus
+
+* Foundation Models (e.g., Prithvi EO, Vision Transformers)
+* Applied ML pipelines (end-to-end systems)
+* Remote sensing + geospatial AI
+* Efficient and clean system design
+
+---
+
+## Technical Skills
+
+### Programming & Tools
+
+* Python, C/C++, JavaScript
+* Git & GitHub
+* Linux, Jupyter Notebook
+
+### Machine Learning & Data
+
+* Regression, Classification, Clustering
+* PCA, GMM, Feature Engineering
+* Time-Series Analysis
+* Model Evaluation & Validation
+
+**Libraries:**
+Pandas, NumPy, scikit-learn, PyTorch, Matplotlib
+
+### Applied Domains
+
+* Remote Sensing & GeoAI
+* Predictive Maintenance
+* Computer Vision (Foundations)
+* Aerospace Data Systems
+
+---
+
+## Featured Projects
+
+### Earth Observation using Prithvi EO 2.0
+
+🔗 Repository: `Earth-Observation-using-Prithvi-EO-2.0`
+
+* Built a full pipeline combining:
+
+  * **Prithvi EO 2.0 embeddings (foundation model)**
+  * **Spectral indices (NDVI, NDWI, SAVI, NDRE)**
+  * **PCA + Gaussian Mixture Models (GMM)**
+* Performed **unsupervised crop zone detection** from satellite imagery
+* Developed a **multi-panel visualization dashboard** for explainability
+* Exported results as **GeoTIFF for GIS workflows**
+
+Developed at **Greenspin GmbH (Würzburg)**
+→ Data, imagery, and infrastructure provided
+→ Full pipeline design and implementation done independently
+
+---
+
+### Aircraft Engine Predictive Maintenance
+
+* Built an ML pipeline to predict **Remaining Useful Life (RUL)**
+* Worked with multivariate time-series sensor data
+* Prevented data leakage using engine-wise splits
+* Compared baseline and tree-based models
+
+---
+
+### Autonomous Insect Monitoring System
+
+* Camera-based system using computer vision
+* Focus on **real-world deployment constraints**
+* Ongoing project integrating detection + hardware
+
+---
+
+### Sign Language Recognition System
+
+* Bachelor’s thesis project
+* End-to-end ML pipeline using image processing
+* Published in IRJET (2024)
+
+---
+
+## Experience & Learning
+
+* Earth Observation Models - Internship (Greenspin GmbH)
+* AWS Cloud Internship – cloud fundamentals & deployment
+* Full-Stack Development Training – React, Node.js
+* ESRI ArcGIS Imagery MOOC – remote sensing & GeoAI
 
 
-## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiptopg@gmail.com) 
+---
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## What I’m Looking For
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m currently looking for:
+
+* Working Student / HiWi roles in:
+
+  * Remote Sensing / GeoAI
+  * Machine Learning / Data Science
+  * Software Engineering
+  * Applied AI Systems
+
+I’m especially interested in **hands-on roles** where I can:
+
+* Build real systems
+* Work with experienced engineers/researchers
+* Contribute to meaningful projects
+
+---
+
+## Get in Touch
+
+* LinkedIn: https://www.linkedin.com/in/sudipto-chakraborty-4a96761b7/
+* Email: [sudiptopg@gmail.com](mailto:sudiptopg@gmail.com)
+* Instagram: @sudiptochakraborty_
+
+---
+
+Thanks for visiting my profile!
