@@ -61,7 +61,7 @@ Pandas, NumPy, scikit-learn, PyTorch, Matplotlib
 
 ### Earth Observation using Prithvi EO 2.0
 
-🔗 Repository: `Earth-Observation-using-Prithvi-EO-2.0`
+Repository: `Earth-Observation-using-Prithvi-EO-2.0`
 
 * Built a full pipeline combining:
 
@@ -79,6 +79,8 @@ Developed at **Greenspin GmbH (Würzburg)**
 ---
 
 ### Aircraft Engine Predictive Maintenance
+
+Repository: `aircraft-engine-predictive-maintenance`
 
 * Built an ML pipeline to predict **Remaining Useful Life (RUL)**
 * Worked with multivariate time-series sensor data
