@@ -82,10 +82,11 @@ Developed at **Greenspin GmbH (Würzburg)**
 
 Repository: `aircraft-engine-predictive-maintenance`
 
-* Built an ML pipeline to predict **Remaining Useful Life (RUL)**
-* Worked with multivariate time-series sensor data
-* Prevented data leakage using engine-wise splits
-* Compared baseline and tree-based models
+* Developed a machine learning pipeline to predict the Remaining Useful Life (RUL) of turbofan aircraft engines using the NASA CMAPSS multivariate sensor dataset.
+* Built a leak-free predictive maintenance workflow with engine-wise train/validation splitting, missing value imputation, rolling-window features, and strict prevention of data leakage.
+* Implemented and evaluated Dummy Regressor, Linear Regression, and Random Forest models, with Random Forest achieving the best performance (~18 RMSE).
+* Designed the pipeline following industry-grade validation practices to ensure reliable time-series predictions for predictive maintenance applications.
+* Generated Predicted vs. True RUL visualizations to analyze model performance, degradation trends, and prediction reliability for aerospace maintenance scenarios.
 
 ---
 
