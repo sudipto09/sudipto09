@@ -91,6 +91,8 @@ Repository: `aircraft-engine-predictive-maintenance`
 
 ### Autonomous Insect Monitoring System
 
+Repository: `Autonomous-Camera-Trap-for-Insect-Monitoring`
+
 * Developed a fully autonomous **edge AI insect monitoring system** on Raspberry Pi 3 Model B+ for real-time insect detection and classification.
 * Integrated a custom-trained **YOLOv5n** model capable of recognizing **33 insect classes** from the IP102 dataset, performing all inference **offline** without cloud connectivity.
 * Built a modular Python pipeline for **image acquisition, preprocessing, AI inference, annotation, and CSV-based detection logging**.
