@@ -104,9 +104,11 @@ Repository: `Autonomous-Camera-Trap-for-Insect-Monitoring`
 
 ### Sign Language Recognition System
 
-* Bachelor’s thesis project
-* End-to-end ML pipeline using image processing
-* Published in IRJET (2024)
+* Developed a deep learning-based sign language recognition system to identify and translate hand gestures into readable text, improving communication accessibility.
+* Built the application using Python, TensorFlow, Django, and MySQL, integrating computer vision and machine learning for gesture recognition.
+* Implemented an end-to-end pipeline for image/video capture, preprocessing, feature extraction, and gesture classification using deep learning techniques.
+* Leveraged AWS cloud services for scalable application deployment and efficient data management.
+* Published the project as a research paper in the International Research Journal of Engineering and Technology (IRJET), May 2024.
 
 ---
 
